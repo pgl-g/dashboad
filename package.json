@@ -1,7 +1,11 @@
 {
-  "name": "nextadmingithubstarter",
+  "name": "dashboard",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "pgl",
+    "email": "1801688332@qq.com"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
